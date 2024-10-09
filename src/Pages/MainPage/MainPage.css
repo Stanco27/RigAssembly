@@ -1,0 +1,84 @@
+.text-container {
+    background-color: #ffd166;
+    text-align: center;
+    padding: 10px;
+    color: #fcfcfc;
+    text-shadow: 0px 4px 10px black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 0px 5px 12px black;
+}
+
+.carousel-image {
+    max-width: 100%;
+    max-height: 100%; 
+}
+
+.carousel-text {
+    color:#fcfcfc;
+}
+
+.carousel-button {
+    background-color: #06d6a0;
+    border: #06d6a0;
+    text-shadow: 0px 3px 8px black;
+}
+
+.carousel-button:hover {
+    background-color: #068e6a;
+}
+
+.carousel-button:active {
+    background-color: #045a43 !important;
+}
+
+.carousel-inner {
+    max-height: 500px;
+}
+
+.main-section {
+    text-align: center;
+    justify-content: center;
+}
+
+.card-categories {
+    background-color: #ffd166;
+    color: #fcfcfc;
+    text-shadow: 0px 1px 5px black;
+    box-shadow: 2px 2px 25px 0px rgba(0, 0, 0, 0.353);
+    height: 30vh;
+}
+
+.card-text {
+    font-size: 18px;
+    margin-top: auto;
+}
+
+.card-title {
+    font-size: 26px;
+}
+
+.card-icons {
+    color: #fcfcfc;
+    margin-top: auto;
+}
+
+.product-section {
+    background-color: #ffd166;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.726);
+    color: #fcfcfc;
+    text-shadow: 0px 1px 5px black;
+    justify-content: center;
+}
+
+.card-product {
+    box-shadow: 2px 2px 25px 0px rgba(0, 0, 0, 0.495);
+    background-color: #06d6a0;
+    color: #fcfcfc;
+    border: none;
+}
+
+.card-image {
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}

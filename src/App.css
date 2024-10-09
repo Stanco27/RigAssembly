@@ -1,0 +1,25 @@
+body {
+  /* background-color: #26547c !important; */
+  background-image: url(https://cdn.wccftech.com/wp-content/uploads/2020/10/AMD-Radeon-RX-6000-Series_Big-Navi-GPU_Graphics-Card_1.png) !important;
+  background-position: center;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #26547cac;
+  z-index: -1;
+}
+
+html {
+  height: 100%;
+}
+

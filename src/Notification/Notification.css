@@ -1,0 +1,30 @@
+.notification {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background-color: #ef476f;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.742);
+    z-index: 10;
+    text-align: center;
+  }
+  
+  .notification-text {
+    font-size: 18px;
+    text-shadow: 0px 0px 5px black;
+  }
+
+  .notification-btn {
+    background-color: #06d6a0;
+    border-color: #06d6a0;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.666);
+    text-shadow: 0px 2px 5px black;
+  }
+
+  .notification-btn:hover {
+    background-color: #06b788;
+    border-color: #06b788;
+  }

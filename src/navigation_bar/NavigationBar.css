@@ -1,0 +1,12 @@
+.navigation-bar {
+    background-color: #ef476f;
+    border-bottom: solid 8px #06d6a0;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    color: #fcfcfc;
+    box-shadow: 0px 5px 12px black;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 2;
+}

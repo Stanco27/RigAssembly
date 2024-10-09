@@ -1,0 +1,171 @@
+[
+    {
+        "name": "4090 RTX Card",
+        "price": 1599.99,
+        "image": "https://images.nvidia.com/aem-dam/Solutions/geforce/ada/rtx-4090/geforce-rtx-4090-product-gallery-full-screen-3840-3.jpg",
+        "compatible": ["ASUS ROG Thor 1600W Gaming Power Supply", "Vetroo 1000W Power Supply ATX 3.0", "EVGA SuperNOVA GT 1000W 80 Plus Gold"],
+        "category": "GPU"
+    },
+    {
+        "name": "4080 RTX Card",
+        "price": 999.99,
+        "image": "https://media.gamestop.com/i/gamestop/20001937_ALT04/MSI-Nvidia-GeForce-RTX-4080-16GB-GAMING-X-TRIO-Graphics-Card-G408016GXT",
+        "compatible": ["Vetroo 1000W Power Supply ATX 3.0", "Thermaltake GF1 ATX 850W Power Supply 80+ Gold", "ASUS ROG Thor 1600W Gaming Power Supply", "EVGA SuperNOVA GT 1000W 80 Plus Gold"],
+        "category": "GPU"
+    },
+    {
+        "name": "Intel i9 10900k",
+        "price": 430.99,
+        "image": "https://assets.rockpapershotgun.com/images/2020/05/Intel-Core-i9-10900K-review-1-1212x681.jpg",
+        "compatible": ["ASUS ROG Strix Z790-E Gaming WiFi 6E", "ASRock Z790 Nova WiFi LGA 1700", "ASUS ROG Maximus Z790 Dark Hero", "MSI Z790 Gaming Pro WiFi LGA 1700"],
+        "category":"CPU"
+    },
+    {
+        "name": "Intel i7 7700k",
+        "price": 232.99,
+        "image": "https://i.pcmag.com/imagery/reviews/01GqURlloXc0KBF7pppB7mF-13..v1581715930.jpg",
+        "compatible": ["ASUS ROG Strix Z790-E Gaming WiFi 6E", "ASRock Z790 Nova WiFi LGA 1700", "ASUS ROG Maximus Z790 Dark Hero", "MSI Z790 Gaming Pro WiFi LGA 1700"],
+        "category":"CPU"
+    },
+    {
+        "name": "AMD Ryzen 9 5900x",
+        "price": 299.99,
+        "image": "https://i.ebayimg.com/images/g/3voAAOSw-TlgzGNM/s-l1200.jpg",
+        "compatible": ["MSI MAG X670E Tomahawk WiFi AM5","ASUS Z790-P ATX Motherboard with WiFi 6"],
+        "category":"CPU"
+    },
+    {
+        "name": "AMD Ryzen 7 5800x",
+        "price": 239.99,
+        "image": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-5800x-og.jpg",
+        "compatible": ["MSI MAG X670E Tomahawk WiFi AM5","ASUS Z790-P ATX Motherboard with WiFi 6"],
+        "category":"CPU"
+        
+    },
+    {
+        "name": "AMD Radeon RX 6800 XT",
+        "price": 1149.99,
+        "image": "https://cdn.mos.cms.futurecdn.net/bpxUuWATCHxcZxfYBkHEDE.jpg",
+        "compatible": ["ASUS ROG Thor 1600W Gaming Power Supply", "Vetroo 1000W Power Supply ATX 3.0", "EVGA SuperNOVA GT 1000W 80 Plus Gold"],
+        "category":"GPU"
+    },
+    {
+        "name": "AMD Radeon RX 6700 XT",
+        "price": 504.99,
+        "image": "https://www.techspot.com/images/products/2021/graphics-cards/org/2021-03-17-product-2-j_1100.webp",
+        "compatible": ["ASUS ROG Thor 1600W Gaming Power Supply", "EVGA SuperNOVA GT 1000W 80 Plus Gold", "Vetroo 1000W Power Supply ATX 3.0", "Thermaltake GF1 ATX 850W Power Supply 80+ Gold"],
+        "category":"GPU"
+    },
+    {
+        "name": "MSI Z790 Gaming Pro WiFi LGA 1700",
+        "price": 199.99,
+        "image": "https://storage-asset.msi.com/global/picture/image/feature/mb/Z790/Z790-GAMING-PRO-WIFI/storage-overview.jpg",
+        "compatible": ["Intel Core i5-12600KF", "Intel Core i7-13700K", "Intel i7 7700k", "Intel i9 10900k"],
+        "category":"Motherboard"
+    },
+    {
+        "name": "MSI MAG X670E Tomahawk WiFi AM5",
+        "price": 293.99,
+        "image": "https://cdn.thefpsreview.com/wp-content/uploads/2023/07/msi_tomahawk_x670e_fe1.png",
+        "compatible": ["AMD Ryzen 7 5800x", "AMD Ryzen 9 5900x"],
+        "category":"Motherboard"
+    },
+    {
+        "name": "Zalman GigaMax 600W 80+ Bronze Power Supply",
+        "price": 54.99,
+        "image": "https://m.media-amazon.com/images/I/51nRRyfbYHL._AC_UF894,1000_QL80_.jpg",
+        "compatible": ["3070 RTX Card"],
+        "category":"Power_Supply"
+    },
+    {
+        "name": "Corsair RM750e ATX Power Supply",
+        "price": 99.99,
+        "image": "https://c1.neweggimages.com/productimage/nb640/17-139-312-08.png",
+        "compatible": ["3070 RTX Card","3080 RTX Card","4080 RTX Card","AMD Radeon RX 6700 XT"],
+        "category":"Power_Supply"
+    },
+    {
+        "name": "Thermaltake GF1 ATX 850W Power Supply 80+ Gold",
+        "price": 149.99,
+        "image": "https://m.media-amazon.com/images/I/71EBGPzoYkL.jpg",
+        "compatible": ["3070 RTX Card","3080 RTX Card","4080 RTX Card","AMD Radeon RX 6700 XT"],
+        "category":"Power_Supply"
+    },
+    {
+        "name": "Vetroo 1000W Power Supply ATX 3.0",
+        "price": 129.99,
+        "image": "https://m.media-amazon.com/images/S/aplus-media/sc/7b2e4e4c-130d-47b7-8cf5-ecd29dc39bb3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+        "compatible": ["3070 RTX Card","3080 RTX Card","4080 RTX Card","AMD Radeon RX 6700 XT"],
+        "category":"Power_Supply"
+    },
+    {
+        "name": "Intel Core i5-12600KF",
+        "price": 164.99,
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bc797b33-0294-4b61-8d65-94291a622c7d.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+        "compatible": ["ASUS ROG Strix Z790-E Gaming WiFi 6E", "ASRock Z790 Nova WiFi LGA 1700", "ASUS ROG Maximus Z790 Dark Hero", "MSI Z790 Gaming Pro WiFi LGA 1700"],
+        "category": "CPU"
+    },
+    {
+        "name": "Intel Core i7-13700K",
+        "price": 309.98,
+        "image": "https://cdn.mos.cms.futurecdn.net/Z2heTbscnwpDsQNjJzxH2X.jpg",
+        "compatible": ["ASUS ROG Strix Z790-E Gaming WiFi 6E", "ASRock Z790 Nova WiFi LGA 1700", "ASUS ROG Maximus Z790 Dark Hero", "MSI Z790 Gaming Pro WiFi LGA 1700"],
+        "category": "CPU"
+    },
+    {
+        "name": "3070 RTX Card",
+        "price": 299.99,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/IMG_1167.jpg",
+        "compatible": ["EVGA SuperNOVA GT 1000W 80 Plus Gold", "ASUS ROG Thor 1600W Gaming Power Supply", "Vetroo 1000W Power Supply ATX 3.0", "Thermaltake GF1 ATX 850W Power Supply 80+ Gold", "Corsair RM750e ATX Power Supply", "Zalman GigaMax 600W 80+ Bronze Power Supply"],
+        "category": "GPU"
+    },
+    {
+        "name": "3080 RTX Card",
+        "price": 899.99,
+        "image": "https://images.idgesg.net/images/article/2020/09/dsc01022-100857542-large.jpg?auto=webp&quality=85,70",
+        "compatible": ["EVGA SuperNOVA GT 1000W 80 Plus Gold", "ASUS ROG Thor 1600W Gaming Power Supply", "Vetroo 1000W Power Supply ATX 3.0", "Thermaltake GF1 ATX 850W Power Supply 80+ Gold", "Corsair RM750e ATX Power Supply"],
+        "category": "GPU"
+    },
+    {
+        "name": "EVGA SuperNOVA GT 1000W 80 Plus Gold",
+        "price": 132.99,
+        "image": "https://i.ebayimg.com/images/g/LsoAAOSwH91kkINY/s-l1600.jpg",
+        "compatible": ["3080 RTX Card", "3070 RTX Card", "4080 RTX Card", "AMD Radeon RX 6700 XT"],
+        "category": "Power_Supply"
+    },
+    {
+        "name": "ASUS ROG Thor 1600W Gaming Power Supply",
+        "price": 699.99,
+        "image": "https://media.ldlc.com/bo/images/fiches/Alimentation/Asus/rog_thor/asus_rog_thor_1600w_p2(1).jpg",
+        "compatible": ["AMD Radeon RX 6800 XT", "3080 RTX Card", "3070 RTX Card", "AMD Radeon RX 6700 XT", "4090 RTX Card", "4080 RTX Card"],
+        "category": "Power_Supply"
+    },
+    {
+        "name": "ASUS ROG Maximus Z790 Dark Hero",
+        "price": 736.99,
+        "image": "https://media.ldlc.com/bo/images/fiches/carte-mere/ASUS/z790/asus_rog_maximus_z790_dark_hero.jpg",
+        "compatible": ["Intel i9 10900k", "Intel Core i5-12600KF", "Intel Core i7-13700K", "Intel i7 7700k"],
+        "category": "Motherboard"
+    },
+    {
+        "name": "ASUS ROG Strix Z790-E Gaming WiFi 6E",
+        "price": 455.99,
+        "image": "https://www.tradeinn.com/f/13963/139634712_5/asus-rog-strix-z790-e-gaming-wifi-motherboard.jpg",
+        "compatible": ["Intel i9 10900k", "Intel Core i5-12600KF", "Intel Core i7-13700K", "Intel i7 7700k"],
+        "category": "Motherboard"
+    },
+    {
+        "name": "ASUS Z790-P ATX Motherboard with WiFi 6",
+        "price": 189.99,
+        "image": "https://www.bhphotovideo.com/images/images2000x2000/asus_90mb1cl0_m0aay0_rog_strix_z790_e_gaming_1729201.jpg",
+        "compatible": ["AMD Ryzen 7 5800x", "AMD Ryzen 9 5900x"],
+        "category": "Motherboard"
+    },
+    {
+        "name": "ASRock Z790 Nova WiFi LGA 1700",
+        "price": 329.99,
+        "image": "https://c1.neweggimages.com/BizIntell/item/MB/Motherboards%20-%20Intel/13-162-148/6.jpg",
+        "compatible": ["Intel i9 10900k", "Intel Core i5-12600KF", "Intel Core i7-13700K", "Intel i7 7700k"],
+        "category": "Motherboard"
+    }
+]
